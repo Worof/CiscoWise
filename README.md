@@ -102,8 +102,13 @@ At its core, CiscoWise uses a **Chain-of-Thought** strategy internally to reason
 - **Compliance**:  
   > “Run a compliance report for PE1-Cisco using the STIG.”  
 
+![photo_2025-02-25_16-15-43](https://github.com/user-attachments/assets/3478006d-2a28-4cb7-bf56-a0093ec59d1b)
+
 - **Troubleshooting**:  
-  > “I have an issue reaching the app server. Can you troubleshoot?”  
+  > “I have an issue reaching the app server. Can you troubleshoot?”
+
+  ![photo_2025-02-25_16-16-19](https://github.com/user-attachments/assets/6658f8fd-b40c-4da8-94dd-5195768bb99a)
+
 
 - **Multi-turn** (relying on conversation memory):  
   > User: “Generate a compliance report.”  
@@ -112,6 +117,8 @@ At its core, CiscoWise uses a **Chain-of-Thought** strategy internally to reason
   > Agent: “...”  
   > User: “How can I fix them?”  
   > Agent: “...”
+
+![photo_2025-02-25_16-16-44](https://github.com/user-attachments/assets/d87e9ca5-dd86-405c-afdc-65cfa70d6e53)
 
 ---
 
